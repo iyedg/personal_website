@@ -12,9 +12,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/iyedg/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/iyed-ghedamsi/
 format:
   html:
     theme:
