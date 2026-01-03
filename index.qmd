@@ -1,13 +1,15 @@
 ---
-title: "blog"
+title: "Iyed Ghedamsi"
+subtitle: "Building Data Solutions for Social Good"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
-  filter-ui: false
-page-layout: full
+  filter-ui: true
+  fields: [image, date, title, description]
+page-layout: article
 title-block-banner: true
 ---
 

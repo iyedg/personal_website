@@ -1,8 +1,13 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!posts/**/notebooks/"
+    - "!posts/**/notebook/"
 
 website:
-  title: "blog"
+  title: "Iyed Ghedamsi"
+  description: "Building Data Solutions for Social Good"
   navbar:
     right:
       - about.qmd
